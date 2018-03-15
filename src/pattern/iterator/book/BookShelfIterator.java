@@ -1,6 +1,6 @@
-package iterator.book;
+package pattern.iterator.book;
 
-import iterator.interfaces.Iterator;
+import pattern.iterator.interfaces.Iterator;
 
 public class BookShelfIterator implements Iterator {
 

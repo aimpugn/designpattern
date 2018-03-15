@@ -1,4 +1,4 @@
-package adapter.instancemethod;
+package pattern.adapter.instancemethod;
 
 public abstract class Print {
 	public abstract void printWeak();

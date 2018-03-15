@@ -1,4 +1,4 @@
-package adapter.instancemethod;
+package pattern.adapter.instancemethod;
 
 public class Main {
 	public static void main( String[] args ) {

@@ -1,8 +1,8 @@
-package iterator.book.main;
+package pattern.iterator.book.main;
 
-import iterator.book.Book;
-import iterator.book.BookShelf;
-import iterator.interfaces.Iterator;
+import pattern.iterator.book.Book;
+import pattern.iterator.book.BookShelf;
+import pattern.iterator.interfaces.Iterator;
 
 public class Main {
 

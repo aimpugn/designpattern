@@ -1,4 +1,4 @@
-package adapter.instancemethod;
+package pattern.adapter.extendmethod;
 
 //이미 제공되어 있는 클래스
 public class Banner {

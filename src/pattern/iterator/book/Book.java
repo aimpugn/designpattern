@@ -1,4 +1,4 @@
-package iterator.book;
+package pattern.iterator.book;
 
 public class Book {
 	private String name;

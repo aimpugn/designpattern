@@ -1,7 +1,7 @@
-package iterator.book;
+package pattern.iterator.book;
 
-import iterator.interfaces.Aggregate;
-import iterator.interfaces.Iterator;
+import pattern.iterator.interfaces.Aggregate;
+import pattern.iterator.interfaces.Iterator;
 
 public class BookShelf implements Aggregate{
 	private Book[] books;

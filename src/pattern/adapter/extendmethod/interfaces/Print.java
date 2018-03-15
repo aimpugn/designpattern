@@ -1,4 +1,4 @@
-package adapter.extendmethod.interfaces;
+package pattern.adapter.extendmethod.interfaces;
 
 public interface Print {
 	

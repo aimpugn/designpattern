@@ -1,4 +1,4 @@
-package iterator.interfaces;
+package pattern.iterator.interfaces;
 
 public interface Iterator {
 	//다음 요소가 존재하는지 조사

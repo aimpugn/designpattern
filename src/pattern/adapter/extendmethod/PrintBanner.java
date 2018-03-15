@@ -1,6 +1,6 @@
-package adapter.extendmethod;
+package pattern.adapter.extendmethod;
 
-import adapter.extendmethod.interfaces.Print;
+import pattern.adapter.extendmethod.interfaces.Print;
 
 public class PrintBanner extends Banner implements Print{
 	public PrintBanner( String str ) {
