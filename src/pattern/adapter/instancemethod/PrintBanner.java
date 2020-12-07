@@ -1,5 +1,8 @@
 package pattern.adapter.instancemethod;
 
+/**
+ * 
+ */
 public class PrintBanner extends Print {
 	private Banner banner;
 	

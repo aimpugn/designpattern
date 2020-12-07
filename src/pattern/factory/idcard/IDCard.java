@@ -19,4 +19,3 @@ public class IDCard extends Product{
 		return owner;
 	}
 }
-
